@@ -2,6 +2,7 @@
   <img src="https://www.solvetic.com/uploads/monthly_01_2016/tutorials-1415-0-60642300-1452279191.jpg" alt="This is an alt text.">
 </p>
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://multivende.com/wp-content/uploads/2022/10/multivende1.png" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://static.eldinamo.cl/media/2021/08/falabella.jpg" width="400" alt="Laravel Logo"></a></p>
 
@@ -74,3 +75,4 @@ IMG_HEIGHT = 1500
 | Python        | 3.10.7        |
 | Pillow        | 9.5.0         |
 | virtualenv    | 1.0.0         |
+
